@@ -1,5 +1,6 @@
 Applepie algo
 
-By using algorithms Apple Music recommends similar artists, songs, or curated playlists based on a mix of your past listening habits and new artists that it thinks you might like. It even adds a few playlists right up top so you can quickly listen to new music or some of your past favorites
-
-TODO: fix the line length in this file
+By using algorithms Apple Music recommends similar artists, songs, or curated playlists
+based on a mix of your past listening habits and new artists that it thinks you might
+like. It even adds a few playlists right up top so you can quickly listen to new music
+or some of your past favorites.
